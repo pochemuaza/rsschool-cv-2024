@@ -6,7 +6,7 @@
 
 ## Contact Information
 - **Email:** pochemuaza@gmail.com
-- **Phone:**
+- **Phone:** +79296380698
 - **GitHub:** [pochemuaza](https://github.com/pochemuaza)
 - **Location:** Moscow, Russia
 
@@ -18,16 +18,16 @@ Last year graduated from university, but i am seeking to pivot into the field of
 ---
 
 ## Education
-**University Name**
-- **Degree:** 
-- **Graduation Year:** 
+**RSAU-MTAA** Moscow, Russia
+- **Degree:** Bachelor of Technological and Technosphere Safety
+- **Graduation Year:** 2023
 
 ---
 
 ## Skills
-- **Languages:**
-- **Tools:**
-- **Soft Skills:**
+- **Languages:** HTML, CSS, Photoshop
+- **Tools:** Git, Github, Visual Studio Code
+- **Soft Skills:** Teamwork, problem solving
 
 ---
 
