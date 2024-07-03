@@ -1,6 +1,6 @@
 # Azamat Kanatov
 
-**Junior Developer | RS School Student**
+Junior Developer | RS School Student
 
 ---
 
