@@ -25,12 +25,25 @@ Last year graduated from university, but i am seeking to pivot into the field of
 ---
 
 ## Skills
-- **Languages:** HTML, CSS, Photoshop
-- **Tools:** Git, Github, Visual Studio Code
+- **Languages:** HTML, CSS, Javascript
+- **Tools:** Git, Github, Visual Studio Code, Photoshop
 - **Soft Skills:** Teamwork, problem solving
 
 ---
 
 ## Code example
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+
+const user = 'Azamat Kanatov';
+console.log(greet(user)); // Output: Hello, Azamat Kanatov!
+```
 
 ## Languages
+Russian - Native
+
+English - Intermediate
+
+Kazakh - Basic
