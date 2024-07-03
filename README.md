@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pochemuaza.github.io/rsschool-cv/cv
